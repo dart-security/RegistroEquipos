@@ -19,3 +19,16 @@ En este programa esta diseñado para el registro y control de equipos<br>
  
  <img src="https://github.com/dart-security/RegistroEquipos/blob/master/JavaMySql.png?raw=true"><br>
  
+<h2>Datos a excel</h2>
+
+1- Para la descarga de datos en excel hay que instalar el conector que esta en la misma carpeta<br>
+solo con este conector por ahora funcionara <strong>mysql-connector-net-8.0.16.msi</strong>
+
+<img src="https://github.com/dart-security/RegistroEquipos/blob/master/ExcelJava.png"><br>
+
+<strong>Siguenos en nuestras Redes Sociales</strong><br>
+<strong>Facebook: Dart - Security</strong><br>
+<strong>Web: hc-security.com.mx</strong><br>
+<strong>Correo: info@hc-security.com.mx</strong>
+
+<strong><h2>Si deceas modificaciones del porgrama o agregar algo mas para tu negocio o beneficio favor de contactarnos por medio de nuestro correo electronico</h2></strong>
